@@ -28,4 +28,12 @@
  
    
 
-<p target="blank" align="center"> <img target="blank" src=https://github-readme-stats.vercel.app/api?username=jeremiasmarinho&show_icons=true alt=jeremiasmarinho /> </p>
+    
+    
+ <p align="center">
+<a href="https://github.com/jeremiasmarinho">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremiasmarinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremiasmarinho&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
+    
