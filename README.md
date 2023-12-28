@@ -3,7 +3,7 @@
 <h3 align="center">Sou desenolvedor 🤓 Front-End</h3>
 
 
-<p align="left"> <a href="https://twitter.com/jeremiasmarinho" target="blank"><img src="https://img.shields.io/twitter/follow/jeremiasmarinho?logo=twitter&style=for-the-badge" alt="jeremiasmarinho" /></a> </p>
+
 
 
 <h3 align="left">Entre em contato:</h3>
@@ -12,7 +12,7 @@
 <a href="https://twitter.com/jeremiasmarinho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeremiasmarinho" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeremiasmarinho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeremiasmarinho" height="30" width="40" /></a>
 <a href="https://instagram.com/jeremiasmarinho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jeremiasmarinho" height="30" width="40" /></a>
-    <a href="https://instagram.com/jeremiasmarinho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="jeremiasmarinho" height="30" width="40" /></a>
+    <a href="https://wa.me/5563992361046" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="jeremiasmarinho" height="30" width="40" /></a>
 </p>
 
 
