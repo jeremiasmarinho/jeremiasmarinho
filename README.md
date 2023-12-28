@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, sou Jeremias Marinho</h1>
 
-<h3 align="center">Sou desenolvedor 🤓 Full-Stack</h3>
+<h3 align="center">Sou desenolvedor 🤓 Front-End</h3>
 
 
 <p align="left"> <a href="https://twitter.com/jeremiasmarinho" target="blank"><img src="https://img.shields.io/twitter/follow/jeremiasmarinho?logo=twitter&style=for-the-badge" alt="jeremiasmarinho" /></a> </p>
